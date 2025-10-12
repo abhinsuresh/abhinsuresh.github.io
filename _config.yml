@@ -1,7 +1,7 @@
 title: "Abhin Suresh"
 name: "Abhin Suresh"
 description: "Research Software Engineering • Computational Physicst • AI/ML • HPC"
-url: "https://abhinsuresh.github.io"   # no trailing slash
+url: "https://abhinsuresh.github.io/profile"   # no trailing slash
 baseurl: ""                        # keep empty for user site
 repository: "https://github.com/abhinsuresh/profile"
 
